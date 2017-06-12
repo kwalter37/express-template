@@ -1,0 +1,29 @@
+{
+  "name": "express-template",
+  "version": "1.0.0",
+  "description": "Starter Express Template",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwalter37/express-template.git"
+  },
+  "author": "Kevin Walter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwalter37/express-template/issues"
+  },
+  "homepage": "https://github.com/kwalter37/express-template#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "jsdom": "^11.0.0",
+    "mocha": "^3.4.2"
+  }
+}
